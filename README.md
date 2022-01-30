@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PCassola, I'm 22 years old, junior full stack developer
+- :v: Hi, I’m @PCassola, I'm 22 years old, junior full stack developer
 - 👀 Interests in studying java, C# and other technologies ...
 - 🎓 Mentors:
 <!---
